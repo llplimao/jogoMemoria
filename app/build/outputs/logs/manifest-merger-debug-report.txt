@@ -1,0 +1,60 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml
+		INJECTED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml
+		INJECTED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml
+		INJECTED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:design:23.1.1] /home/llplimao/.android/build-cache/e3728c2170a362d9d12a3ee51bd8a321da8c44d2/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/llplimao/.android/build-cache/4700edbebdc007fbcf0975ec2b5fa46e1339660e/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/llplimao/.android/build-cache/fa30c4b31c8565bd0539cc94c4ac3b55146513f2/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.aula_android.jogoMemoria.MainActivity
+ADDED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml:11:9-20:20
+	android:label
+		ADDED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml:13:13-45
+	android:theme
+		ADDED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml:12:13-69
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.1.1] /home/llplimao/.android/build-cache/e3728c2170a362d9d12a3ee51bd8a321da8c44d2/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/llplimao/.android/build-cache/4700edbebdc007fbcf0975ec2b5fa46e1339660e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] /home/llplimao/.android/build-cache/a154768742faf9866d199ef67a8933abe4840149/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/llplimao/.android/build-cache/fa30c4b31c8565bd0539cc94c4ac3b55146513f2/output/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml
+		INJECTED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml
+		INJECTED from /home/llplimao/workspace/android/jogoMemoria/app/src/main/AndroidManifest.xml

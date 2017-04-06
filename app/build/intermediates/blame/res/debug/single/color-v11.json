@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/llplimao/workspace/android/jogoMemoria/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/llplimao/.android/build-cache/4700edbebdc007fbcf0975ec2b5fa46e1339660e/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/llplimao/workspace/android/jogoMemoria/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/llplimao/.android/build-cache/4700edbebdc007fbcf0975ec2b5fa46e1339660e/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

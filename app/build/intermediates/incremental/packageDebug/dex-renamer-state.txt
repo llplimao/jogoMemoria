@@ -1,0 +1,7 @@
+#Wed Apr 05 20:22:19 BRT 2017
+base.0=/home/llplimao/workspace/android/jogoMemoria/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5f2affd3c439079ae4f78398bd7371e8c3e70e67
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/llplimao/workspace/android/jogoMemoria/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8114d162207826ded4e89b2b1fa04fe853f2ecf8/classes.dex
+base.1=/home/llplimao/workspace/android/jogoMemoria/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8114d162207826ded4e89b2b1fa04fe853f2ecf8
+file.0=/home/llplimao/workspace/android/jogoMemoria/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5f2affd3c439079ae4f78398bd7371e8c3e70e67/classes.dex

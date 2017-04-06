@@ -1,0 +1,19 @@
+#Wed Apr 05 20:22:18 BRT 2017
+renamed.5=classes4.dex
+renamed.4=classes2.dex
+renamed.3=classes3.dex
+renamed.2=classes.dex
+renamed.1=classes5.dex
+renamed.0=classes6.dex
+base.5=/home/llplimao/workspace/android/jogoMemoria/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_8a0979b492bba184ae868253918fcd6ea7294620
+base.4=/home/llplimao/workspace/android/jogoMemoria/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9694a70e2c107a76ac88a254bdacbde1b0850742
+base.3=/home/llplimao/workspace/android/jogoMemoria/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_326338f8fd70ec21d460bee2d672537c5c49b406
+base.2=/home/llplimao/workspace/android/jogoMemoria/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f9408c500afcced62eb14fc11e03eb7ab61af1b
+base.1=/home/llplimao/workspace/android/jogoMemoria/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0ab19f97957dc5717446e7f287583b02c14941e
+base.0=/home/llplimao/workspace/android/jogoMemoria/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_413eb06a9bca79f4eddb96f62ce85233b66c8cde
+file.5=/home/llplimao/workspace/android/jogoMemoria/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_8a0979b492bba184ae868253918fcd6ea7294620/classes.dex
+file.4=/home/llplimao/workspace/android/jogoMemoria/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9694a70e2c107a76ac88a254bdacbde1b0850742/classes.dex
+file.3=/home/llplimao/workspace/android/jogoMemoria/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_326338f8fd70ec21d460bee2d672537c5c49b406/classes.dex
+file.2=/home/llplimao/workspace/android/jogoMemoria/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f9408c500afcced62eb14fc11e03eb7ab61af1b/classes.dex
+file.1=/home/llplimao/workspace/android/jogoMemoria/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0ab19f97957dc5717446e7f287583b02c14941e/classes.dex
+file.0=/home/llplimao/workspace/android/jogoMemoria/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_413eb06a9bca79f4eddb96f62ce85233b66c8cde/classes.dex
